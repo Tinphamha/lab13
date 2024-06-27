@@ -1,0 +1,23 @@
+/* background màu đen cho thanh navbar màu chữ trắng*/
+#bg-full {
+  background-color: black;
+}
+#mau {
+  color: white;
+}
+/* dời phần footer xuống 150px */
+.container {
+  margin-top: 150px;
+}
+/* chỉnh size cho background */
+.bg-img {
+  width: 100%;
+  height: 500px;
+}
+/* chỉnh màu trắng cho thanh công cụ và viền của nó khi thu nhỏ trình duyệt  */
+#vien {
+  color: white;
+}
+#navbar-toggler-icon {
+  background-color: white;
+}
